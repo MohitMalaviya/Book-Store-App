@@ -24,5 +24,29 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/book-store-web-app.git
-   cd book-store-web-app
+   git clone https://github.com/MohitMalaviya/Book-Store-App
+   cd Book Store App
+
+   cd .\Backend
+   npm install
+
+   cd .\frontend
+   npm install
+   
+   MONGO_URI=your_mongo_db_connection_string
+   JWT_SECRET=your_jwt_secret_key
+
+   cd .\backend
+   npm run dev
+
+   cd .\frontend
+   npm start
+
+
+   
+
+
+   
+
+
+
