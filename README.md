@@ -1,6 +1,6 @@
 #  Book Store Web Application
 
-Welcome to Book Store Web Application built using the MERN (MongoDB, Express, React, Node.js) stack. This project allows users to browse, purchase, and read books online with features like user authentication, dark/light mode, and more.
+Welcome to Book Store Web Application built using the MERN (MongoDB, Express, React, Node.js) stack. This project allows users to browse, add, and read books online with features like user authentication, dark/light mode, and more.
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to Book Store Web Application built using the MERN (MongoDB, Express, Re
 
 ## Technologies Used
 
-- **Frontend**: React.js, CSS (for styling)
+- **Frontend**: React.js,Tailwind CSS (for styling)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (for storing user and book data), LocalStorage (for session management)
 - **Authentication**: JWT (JSON Web Token) for secure user authentication
@@ -41,12 +41,3 @@ To run this project locally, follow these steps:
 
    cd .\frontend
    npm start
-
-
-   
-
-
-   
-
-
-
