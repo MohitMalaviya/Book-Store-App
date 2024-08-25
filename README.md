@@ -2,6 +2,13 @@
 
 Welcome to Book Store Web Application built using the MERN (MongoDB, Express, React, Node.js) stack. This project allows users to browse, add, and read books online with features like user authentication, dark/light mode, and more.
 
+# Projects Layouts
+![image](https://github.com/user-attachments/assets/c0b7f740-efec-4628-ac9a-9a4bec3a258c)
+
+![image](https://github.com/user-attachments/assets/6637097a-318a-4665-a5f6-00853ef39019)
+
+
+
 ## Features
 
 - **Responsive Web Design**: The application is fully responsive, ensuring a seamless experience across all devices.
